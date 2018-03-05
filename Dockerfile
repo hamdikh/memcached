@@ -1,4 +1,4 @@
-FROM rhel7:7.4-120
+FROM registry.access.redhat.com/rhel7:7.4-120
 
 LABEL summary="RHMAP Docker image used for data caching" \
       description="RHMAP Docker image used for data caching" \
